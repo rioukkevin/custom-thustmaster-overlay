@@ -4,7 +4,7 @@ Inspired by @Jayraydee work on twitter!
 /*BEGIN THRUSTMASTER eSWAP Controller Styling*/
 
 .controller.custom {
-  background: url(https://raw.githubusercontent.com/rioukkevin/custom-thustmaster-overlay/master/oxidya_/base.png);
+  background: url(https://silly-churros-8a710c.netlify.app/oxidya_2/base.png);
   height: 889px;
   width: 1000px;
   background-repeat: no-repeat;
@@ -139,7 +139,7 @@ Inspired by @Jayraydee work on twitter!
   position: absolute;
   background-repeat: no-repeat;
 }
-.custom .stick {
+.custom .stick. {
   position: absolute;
 }
 .custom .stick.pressed.left {
