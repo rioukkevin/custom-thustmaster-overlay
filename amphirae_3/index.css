@@ -1,27 +1,27 @@
 .controller.ds4.white {
-  background-image: url(https://silly-churros-8a710c.netlify.app/amphirae_2/png/base.png) !important;
+  background-image: url(https://silly-churros-8a710c.netlify.app/amphirae_3/png/base.png) !important;
 }
 
 .ds4.white .stick {
-  background-image: url(https://silly-churros-8a710c.netlify.app/amphirae_2/png/sticks.png) !important;
+  background-image: url(https://silly-churros-8a710c.netlify.app/amphirae_3/png/sticks.png) !important;
 }
 
 .ds4.white .face {
-  background-image: url(https://silly-churros-8a710c.netlify.app/amphirae_2/png/dpad.png) !important;
+  background-image: url(https://silly-churros-8a710c.netlify.app/amphirae_3/png/dpad.png) !important;
 }
 
 .ds4.white .bumper {
-    background-image: url(https://silly-churros-8a710c.netlify.app/amphirae_2/png/bumper.png) !important;
+    background-image: url(https://silly-churros-8a710c.netlify.app/amphirae_3/png/bumper.png) !important;
 }
 
 .ds4.white .trigger {
-    background-image: url(https://silly-churros-8a710c.netlify.app/amphirae_2/png/triggers.png) !important;
+    background-image: url(https://silly-churros-8a710c.netlify.app/amphirae_3/png/triggers.png) !important;
 }
 
 .ds4.white .touchpad.pressed {
-    background-image: url(https://silly-churros-8a710c.netlify.app/amphirae_2/png/touchpad.png) !important;
+    background-image: url(https://silly-churros-8a710c.netlify.app/amphirae_3/png/touchpad.png) !important;
 }
 
 .ds4.white .back, .ds4 .start {
-    background-image: url(https://silly-churros-8a710c.netlify.app/amphirae_2/png/start.png) !important;
+    background-image: url(https://silly-churros-8a710c.netlify.app/amphirae_3/png/start.png) !important;
 }
